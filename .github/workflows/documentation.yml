@@ -15,7 +15,7 @@ jobs:
         uses: mattnotmitt/doxygen-action@v1.9.1
         with:
           working-directory: './docs'
-          doxyfile-path: './docs/Doxyfile'
+          doxyfile-path: 'Doxyfile'
       - name: Install dependencies
         run: |
           pip install sphinx sphinx_rtd_theme myst_parser
