@@ -1,0 +1,9 @@
+<map id="/github/workspace/include/conwayGame.h" name="/github/workspace/include/conwayGame.h">
+<area shape="rect" id="Node000001" title="This header file contains the basic operations for the game logic." alt="" coords="33,5,205,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,94,65,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,48,61,85,57,81,96,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="89,94,149,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="122,46,122,78,116,78,116,46"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="173,94,228,120"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="141,44,179,81,175,85,137,48"/>
+</map>
