@@ -16,8 +16,8 @@
  */
 //------------------------------------------------------------------------------
 
-#include "fileManager.h"
-#include "conwayGame.h"
+#include "../include/fileManager.h"
+#include "../include/conwayGame.h"
 
 #include <stdio.h>
 #include <stdlib.h>

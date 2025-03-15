@@ -16,7 +16,7 @@
  */
 //------------------------------------------------------------------------------
 
-#include "conwayGame.h"
+#include "../include/conwayGame.h"
 
 #include <stdio.h>
 #include <stdlib.h>

@@ -16,9 +16,9 @@
  */
 //------------------------------------------------------------------------------
 
-#include "main.h"
-#include "conwayGame.h"
-#include "fileManager.h"
+#include "../include/main.h"
+#include "../include/conwayGame.h"
+#include "../include/fileManager.h"
 
 #include <windows.h>
 #include <time.h>
